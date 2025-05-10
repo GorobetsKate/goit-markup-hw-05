@@ -767,6 +767,9 @@ input {
   color: #8e8f99;
 }
 
+.box-comment {
+  margin-bottom: 16px;
+}
 .modal-check {
   display: inline-flex;
   justify-content: center;
